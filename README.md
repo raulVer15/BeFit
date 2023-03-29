@@ -1,7 +1,7 @@
 # BeFit
-# Fitness App
-# By: Jose Chavez, Nathan, Raul Verduzco
-# CMPS 3390
+  Fitness App
+  By: Jose Chavez, Nathan, Raul Verduzco
+  CMPS 3390
 
 # PROJECT DESCRIPTION:
    The project is to design a mobile/web application of your choosing. Concepts in the course must
@@ -28,9 +28,9 @@
    implement your program in a unique way. What were some of the difficulties you encountered?
    What are the limitations of your framework? Possible future improvements?
    
-# Task:
+# TODO:
     JOSE CHAVEZ -- Wireframe
     Nathan      -- Database
     Raul Ver    -- Userinterface
-    
-    
+   
+# LONG TERM:
