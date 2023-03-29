@@ -11,16 +11,16 @@
    programming language and framework may be used as long as they are appropriate for each
    layer. The project may be completely software based and must be presented as a demonstration.
 
-# Plan (~10%):                                                                    |
-   5-minute PowerPoint presentation                                               |  DONE
-   Explain which framework you will use for your app and why.                     |
-   Give a clear explanation of milestones and timeline to complete your project.  |
+# Plan (~10%): DONE
+   5-minute PowerPoint presentation                                               
+   Explain which framework you will use for your app and why.                     
+   Give a clear explanation of milestones and timeline to complete your project.  
 
-# Progress Presentation(~30%):
-   8-minute PowerPoint presentation, minimum 5 slides;                                          |
-   Give an overview of your application so far. Explain the main functions/classes, and give    |  INPROGRES 
-   examples of problems that can be solved using the software. Show and explain example code    |
-   which implements your application. Discuss the major tasks that still need to be completed.  |
+# Progress Presentation(~30%): IN PROGRESS
+   8-minute PowerPoint presentation, minimum 5 slides;                                          
+   Give an overview of your application so far. Explain the main functions/classes, and give     
+   examples of problems that can be solved using the software. Show and explain example code    
+   which implements your application. Discuss the major tasks that still need to be completed.  
    
 # Final Presentation(~60%):
    12-minute PowerPoint presentation and demo, minimum 8 slides;
